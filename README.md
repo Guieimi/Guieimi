@@ -12,6 +12,8 @@ Atualmente na Cabine da Diversão, atuo na Marketing do Rei, onde a agilidade é
 
 Minha paixão por criar se reflete na loja online STORY.POLAROIS, um projeto Full Stack que deu vida às minhas habilidades. Sou proativo, movido por desafios e pronto para inovar em equipes.
 
+Você pode acessar a versão online do projeto clicando neste link: https://guieimi.github.io/Loja-Story.Polaroid/
+
 *   🌍  I'm based in Brasil
 *   🖥️  See my portfolio at [https://guieimicontato.wixsite.com/guieimidev](http://guieimicontato.wixsite.com/guieimidev)
 *   ✉️  You can contact me at [guieimi.contato@gmail.com](mailto:guieimi.contato@gmail.com)
