@@ -23,7 +23,7 @@ Você pode acessar a versão online do projeto clicando neste link: https://guie
 📞  WhatsApp: (11) 99750-0883
 
 📲 Acompanho também pelo TikTok, onde compartilho dicas, aprendizados e bastidores dos meus projetos em tecnologia:
-🔗 @guieimi.analista
+🔗 [@guieimi.analista](https://www.tiktok.com/@guieimi.analista?_t=ZM-8yCWcd649X3&_r=1)
 
 🧠  Estou aprendendo: Este é um projeto personalizado que estou desenvolvendo sozinho. Cada passo, desde o estudo de Java até a implementação, é um aprendizado contínuo. Estou aplicando todo o meu conhecimento para criar essa solução de maquininha de cartão, que será integrada ao novo e exclusivo equipamento fotográfico da Cabine da Diversão. É um desafio que me impulsiona a crescer a cada etapa..### Skills 
 <p align="left">
