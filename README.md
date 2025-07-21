@@ -1,4 +1,4 @@
-Hi 👋 My name is Guilherme Ribeiro
+Olá 👋 Meu nome é Guilherme Ribeiro
 ==================================
 
 Desenvolvedor Full Stack Júnior
