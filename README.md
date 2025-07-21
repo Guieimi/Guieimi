@@ -1,16 +1,28 @@
-## Hi there 👋
+Olá 👋 Meu nome é Guilherme Ribeiro
+===================================
 
-<!--
-**Guieimi/Guieimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack Júnior
+-------------------------------
 
-Here are some ideas to get you started:
+Guilherme Ribeiro | Desenvolvedor Full Stack Júnior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Com base sólida em Front-end (React.js, HTML, CSS, JS) e Back-end (Node.js, Python, PHP), navegação por MySQL, SQL e MongoDB. Em meus estudos pessoais, dedico-me a aprofundar conhecimentos em Java, expandindo meu horizonte tecnológico.
+
+Atualmente na Cabine da Diversão, aqui no Marketing do Rei, onde a agilidade é chave: utilizar WordPress para criação de sites, otimizando o tempo para as múltiplas funções em uma empresa pequena, que incluem gestão de tráfego, registro de marca, mídias sociais, Google Meu Negócio, SEO WordPress e criação de artes.
+
+Minha paixão por criar se reflete na loja online STORY.POLAROIS, um projeto Full Stack que deu vida às minhas habilidades. Sou proativo, movido por desafios e pronto para inovar em equipes.
+
+*   🌍 Estou baseado no Brasil
+*   🖥️ Veja meu portfólio em [https://guieimicontato.wixsite.com/guieimidev](http://guieimicontato.wixsite.com/guieimidev)[](http://guieimicontato.wixsite.com/guieimidev)
+*   ✉️ Você pode entrar em contato comigo pelo [e-mail guieimi.contato@gmail.com](mailto:guieimi.contato@gmail.com)[](mailto:guieimi.contato@gmail.com)
+*   🧠 Estou aprendendo Este é um projeto personalizado que estou desenvolvendo sozinho. Cada passo, desde o estudo de Java até a implementação, é um aprendizado contínuo. Estou aplicando todo o meu conhecimento para criar essa solução de maquininha de cartão, que será integrada ao novo e exclusivo equipamento fotográfico da Cabine da Diversão. É um desafio que me impulsiona a crescer a cada etapa.### Habilidades 
+<p align="left">
+ <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" title="Photoshop"/></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" title="Wordpress"/></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" title="Framer"/></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" title="Wix"/></a>
+                    </p>
+                    
+                  ### Redes sociais
+                  
+                   
+                <p align="left"> 
+                      <a href="https://www.github.com/Guieimi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" altura="32" alt="Github" título="Github" /> </imagem> </a> 
+                      <a href="https://www.linkedin.com/in/guilherme-ribeiro-a1a4b4152/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
