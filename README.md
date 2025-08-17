@@ -1,32 +1,48 @@
-Olá 👋 Meu nome é Guilherme Ribeiro
-==================================
+# 🚀 Guilherme Ribeiro Araújo dos Santos
 
-Desenvolvedor Full Stack Júnior
--------------------------------
+### Desenvolvedor Full Stack | Foco em Java e Back-end
 
-Guilherme Ribeiro | Desenvolvedor Full Stack Júnior
+Olá! Sou um desenvolvedor full stack com base sólida em front-end, mas atualmente com foco total no desenvolvimento **Back-end com Java**. Busco aplicar o conhecimento adquirido em um material de altíssima qualidade e 100% focado na prática para criar aplicações robustas e escaláveis.
 
-Com base sólida em Front-end (React.js, HTML, CSS, JS) e Back-end (Node.js, Python, PHP), navego por MySQL, SQL e MongoDB. Em meus estudos pessoais, dedico-me a aprofundar conhecimentos em Java, expandindo meu horizonte tecnológico.
+---
 
-Atualmente na Cabine da Diversão, atuo na Marketing do Rei, onde a agilidade é chave: utilizo WordPress para criação de sites, otimizando o tempo para minhas múltiplas funções em uma empresa pequena, que incluem gestão de tráfego, registro de marca, social media, Google Meu Negócio, SEO WordPress e criação de artes.
+### 💻 Minhas Habilidades
 
-Minha paixão por criar se reflete na loja online STORY.POLAROIS, um projeto Full Stack que deu vida às minhas habilidades. Sou proativo, movido por desafios e pronto para inovar em equipes.
-
-Você pode acessar a versão online do projeto clicando neste link: https://guieimi.github.io/Loja-Story.Polaroid/
-
-🌍  Moro no Brasil
-
-🖥️  Veja meu portfólio: https://guieimicontato.wixsite.com/guieimidev
-
-✉️  E-mail para contato: guieimi.contato@gmail.com
-
-📞  WhatsApp: (11) 99750-0883
-
-📲 Acompanho também pelo TikTok, onde compartilho dicas, aprendizados e bastidores dos meus projetos em tecnologia:
-🔗 [@guieimi.analista](https://www.tiktok.com/@guieimi.analista?_t=ZM-8yCWcd649X3&_r=1)
-
-🧠  Estou aprendendo: Este é um projeto personalizado que estou desenvolvendo sozinho. Cada passo, desde o estudo de Java até a implementação, é um aprendizado contínuo. Estou aplicando todo o meu conhecimento para criar essa solução de maquininha de cartão, que será integrada ao novo e exclusivo equipamento fotográfico da Cabine da Diversão. É um desafio que me impulsiona a crescer a cada etapa..### Skills 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" title="Photoshop"/></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" title="Wordpress"/></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" title="Framer"/></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" title="Wix"/></a>
-                    </p>
-                    
+    <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img alt="Spring Boot" title="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img alt="SQL" title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img alt="MongoDB" title="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+</p>
+
+---
+
+### 🌟 Projetos em Destaque
+
+* **Projeto Bootcamp: Java Backend 360°**
+    * Este projeto completo demonstra a minha capacidade de desenvolver **aplicações back-end de alta performance** do zero. Eu criei **APIs RESTful** para gerenciar dados e implementei a persistência de forma escalável, utilizando tanto bancos de dados **SQL (MySQL)** quanto **NoSQL (MongoDB)**. Além disso, o projeto inclui a implementação de segurança e autenticação com **Spring Security**, solidificando meu conhecimento prático em Java, Spring Boot e JPA.
+
+* **Loja Online STORY.POLAROIS**
+    * Projeto full stack que demonstra minhas habilidades em desenvolvimento de ponta a ponta. Focado na criação de um sistema back-end robusto para gerenciamento de produtos, pedidos e usuários, utilizando **Node.js**, **Express.js** e **MongoDB**. A API RESTful que criei para este projeto conecta o banco de dados NoSQL ao front-end, gerenciando toda a lógica de negócio do e-commerce.
+
+---
+
+### 💼 Experiência Profissional
+
+* **Marketing do Rei | Cabine da Diversão:**
+    * Atuo como desenvolvedor multifuncional, criando sites (WordPress) e otimizando a presença digital de clientes. Esta experiência me ensinou agilidade e a capacidade de gerenciar diferentes demandas, como SEO e marketing digital, que complementam meu perfil técnico.
+
+---
+
+### 🔗 Conecte-se Comigo
+
+* **Portfólio Pessoal:** [https://guieimicontato.wixsite.com/guieimidev](https://guieimicontato.wixsite.com/guieimidev)
+* **Acesse o projeto STORY.POLAROIS online:** [https://guieimi.github.io/Loja-Story.Polaroid/](https://guieimi.github.io/Loja-Story.Polaroid/)
+* **E-mail:** [guieimi.contato@gmail.com](mailto:guieimi.contato@gmail.com)
+* **WhatsApp:** (11) 99750-0883
+* **TikTok:** [@guieimi.analista](https://www.tiktok.com/@guieimi.analista)
